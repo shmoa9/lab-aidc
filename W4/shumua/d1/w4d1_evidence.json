@@ -1,0 +1,1 @@
+{"cluster": "pod:aidc-t16", "namespace": "default", "pod": "serving", "image": "shumua/aidc-serving:cpu-v1", "node": "aidc-t16", "chat_status": 200}

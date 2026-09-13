@@ -1,0 +1,1 @@
+{"cluster": "pod:aidc-t16", "namespace": "layan0003", "pod": "serving", "image": "layan0003/aidc-serving:cpu-v1", "node": "aidc-t16", "chat_status": 200}

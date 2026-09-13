@@ -1,0 +1,1 @@
+{"cluster": "pod:aidc-t16", "namespace": "renad", "pod": "serving", "image": "renadali5223/aidc-serving:cpu-v1", "node": "aidc-t16", "chat_status": 200}
