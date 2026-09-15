@@ -1,4 +1,4 @@
-#.Site: HUMAIN's first building — 50 MW, 18,000 NVIDIA GB300 GPUs
+# Site: HUMAIN's first building — 50 MW, 18,000 NVIDIA GB300 GPUs
 
 ## 1. How many racks and GPUs does the site's power buy?
 
@@ -92,7 +92,7 @@ $24.372M ÷ 4,478,976
 > **30% = $14.51 per 1M tokens
 80% = $5.44 per 1M tokens **
 
-##. Assumptions
+## Assumptions
 - I used H100's 989 TFLOPS because the case does not give a GB300 figure.
 - For Q2, I calculated the model weights only because there is not enough information for the KV cache.
 - I assumed the monthly cost stays the same at different utilization levels.
