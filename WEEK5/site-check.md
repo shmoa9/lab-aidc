@@ -25,7 +25,7 @@ At fp8:
 = 4.8 quadrillion parameters
 > **Largest model ≈ 4.8 quadrillion parameters.
 > Number of copies = 1 **
-> **Assumption I calculated the model weights only because there is not enough information for the KV cache. **
+> **Assumption I calculated the model weights only because there is not enough information for the KV cache.**
 
 ## 3. What is the largest model it could train in six months?
 
@@ -48,7 +48,7 @@ Training tokens:
 ≈ 18.8T tokens
  > **Largest model ≈ 942B parameters
 Training tokens ≈ 18.8T **
-> ** Assumption I used H100's 989 TFLOPS because the case does not give a GB300 figure. **
+> **Assumption I used H100's 989 TFLOPS because the case does not give a GB300 figure.**
 
 
 ## 4. What is its electricity bill for a month?
@@ -65,7 +65,7 @@ Industrial rate:
 23,400,000 × $0.048
 = $1,123,200
 > **Commercial rate = $1.872M/month
-Industrial rate = $1.1232M/month **
+Industrial rate = $1.1232M/month.**
 
 
 
@@ -90,7 +90,7 @@ $24.372M ÷ 1,679,616
 $24.372M ÷ 4,478,976
 ≈ $5.44 per 1M tokens
 > **30% = $14.51 per 1M tokens
-80% = $5.44 per 1M tokens **
+80% = $5.44 per 1M tokens.**
 
 ## Assumptions
 - I used H100's 989 TFLOPS because the case does not give a GB300 figure.
