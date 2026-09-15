@@ -1,4 +1,4 @@
-#Site: HUMAIN's first building — 50 MW, 18,000 NVIDIA GB300 GPUs
+#.Site: HUMAIN's first building — 50 MW, 18,000 NVIDIA GB300 GPUs
 
 ## 1. How many racks and GPUs does the site's power buy?
 
