@@ -23,7 +23,7 @@ At fp8:
 4.8 × 10¹⁵ bytes
 = 4,800 trillion parameters
 = 4.8 quadrillion parameters
-> **Largest model ≈ 4.8 quadrillion parameters.
+> Largest model ≈ 4.8 quadrillion parameters.
 > Number of copies = 1.
 
 > Assumption I calculated the model weights only because there is not enough information for the KV cache.
