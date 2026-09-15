@@ -1,5 +1,22 @@
 # Site: HUMAIN's first building — 50 MW, 18,000 NVIDIA GB300 GPUs
 
+## Assumptions:
+
+- PUE = 1.25
+- 10% of IT power is used for switches and storage
+- 20% headroom
+- GB300 NVL72 rack = 72 GPUs, about 20 TB GPU memory, 120 kW
+- H100 peak performance = 989 TFLOPS, with 40% sustained for training
+- 6 operations per parameter per token
+- 20 tokens per parameter
+- 30-day month
+- Average site draw = 65% of connection
+- Industrial electricity rate = $0.048/kWh
+- Serving throughput = 125 output tokens/s/GPU
+- Non-electric cost = $450,000 per MW per month
+
+## The five questions :
+
 ## 1. How many racks and GPUs does the site's power buy?
 
 Starting from 50 MW:
